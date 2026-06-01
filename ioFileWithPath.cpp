@@ -19,4 +19,6 @@ int main()
 
     cout << ">= Menulis file, \'q\' untuk keluar" << endl;
 
+    //looping untuk menulis isi file
+    while (true)
     
